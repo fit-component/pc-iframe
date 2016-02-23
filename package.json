@@ -1,6 +1,6 @@
 {
   "name": "fit-iframe",
-  "version": "0.0.24",
+  "version": "0.0.29",
   "description": "Iframe",
   "main": "lib/index.js",
   "scripts": {
@@ -12,5 +12,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "react": "^0.14.7",
+    "classnames": "^2.2.3",
+    "react-dom": "^0.14.7"
+  }
 }
