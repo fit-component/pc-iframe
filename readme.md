@@ -3,5 +3,5 @@
 ---
 
 ````jsx
-fis3 install fiten-iframe
+fis3 install fit-iframe
 ````
