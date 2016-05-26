@@ -1,6 +1,6 @@
 {
   "name": "fit-iframe",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Iframe",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "react": "^15.0.1",
-    "react-dom": "^15.0.1",
-    "typings": "lib/index.d.ts"
-  }
+    "react-dom": "^15.0.1"
+  },
+  "typings": "lib/index.d.ts"
 }
