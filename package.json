@@ -1,6 +1,6 @@
 {
   "name": "fit-iframe",
-  "version": "3.0.27",
+  "version": "3.0.33",
   "description": "Iframe",
   "main": "lib/index.js",
   "scripts": {
